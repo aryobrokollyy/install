@@ -3,7 +3,7 @@
 # Cara Install Script bot telegram Settings
 - Run installation script:
 ```
-bash -c "$(wget -qO - 'https://raw.githubusercontent.com/aryobrokolly/modepesawat/master/setup.sh')"
+bash -c "$(wget -qO - 'https://raw.githubusercontent.com/aryobrokollyy/install/refs/heads/main/settele.sh')"
 ```
 
 
